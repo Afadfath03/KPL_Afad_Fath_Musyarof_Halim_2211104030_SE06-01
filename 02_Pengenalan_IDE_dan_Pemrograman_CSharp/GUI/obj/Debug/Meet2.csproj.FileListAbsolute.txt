@@ -1,0 +1,10 @@
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\bin\Debug\Meet2.exe.config
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\bin\Debug\Meet2.exe
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\bin\Debug\Meet2.pdb
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.csproj.AssemblyReference.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.Form1.resources
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.Properties.Resources.resources
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.csproj.GenerateResource.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.csproj.CoreCompileInputs.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.exe
+D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\obj\Debug\Meet2.pdb
