@@ -1,0 +1,14 @@
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\bin\Debug\net8.0\Generic.exe
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\bin\Debug\net8.0\Generic.dll
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\bin\Debug\net8.0\Generic.pdb
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.dll
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.pdb
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\Study\Kampus\Matkul\Semester 6\Praktikum KPL\KPL\Meet3\Generic\obj\Debug\net8.0\ref\Generic.dll

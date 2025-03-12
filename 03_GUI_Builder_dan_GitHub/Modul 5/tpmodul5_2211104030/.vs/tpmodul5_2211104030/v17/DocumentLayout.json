@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Kampus\\Matkul\\Semester 6\\Praktikum KPL\\KPL\\Meet3\\Modul 5\\tpmodul5_2211104030\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8355E4D6-9D09-40BA-A8FA-EA0C376590DF}|tpmodul5_2211104030.csproj|d:\\study\\kampus\\matkul\\semester 6\\praktikum kpl\\kpl\\meet3\\modul 5\\tpmodul5_2211104030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8355E4D6-9D09-40BA-A8FA-EA0C376590DF}|tpmodul5_2211104030.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Kampus\\Matkul\\Semester 6\\Praktikum KPL\\KPL\\Meet3\\Modul 5\\tpmodul5_2211104030\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\Kampus\\Matkul\\Semester 6\\Praktikum KPL\\KPL\\Meet3\\Modul 5\\tpmodul5_2211104030\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:14:50.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
