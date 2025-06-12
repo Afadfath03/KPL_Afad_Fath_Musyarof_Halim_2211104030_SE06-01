@@ -1,0 +1,57 @@
+﻿using System;
+using System.Collections.Generic;
+
+/// <summary>
+/// Represents a centralized data storage using the singleton pattern.
+/// </summary>
+public class PusatDataSingleton
+{
+    // Atribut
+    private List<string> DataTersimpan;
+    private static PusatDataSingleton _instance;
+
+    /// <summary>
+    /// Initializes a new instance of the <see cref="PusatDataSingleton"/> class.
+    /// </summary>
+    // Konstruktor private
+    private PusatDataSingleton() {
+        DataTersimpan = new List<string>();
+    }
+
+    /// <summary>
+    /// Gets the singleton instance of PusatDataSingleton.
+    /// </summary>
+    // Method GetDataSingleton
+    public static PusatDataSingleton GetDataSingleton()
+    {
+        if (_instance == null) _instance = new PusatDataSingleton();
+        return _instance;
+    }
+
+    // Method GetSemuaData
+    public List<string> GetSemuaData() { 
+        return DataTersimpan; 
+    }
+
+    // Method PrintSemuaData
+    public void PrintSemuaData() {
+        foreach (string data in DataTersimpan){
+            Console.WriteLine(data);
+        }
+    }
+
+    // Method AddSebuahData
+    public void AddSebuahData(string input) {
+        DataTersimpan.Add(input);
+    }
+
+    // Method HapusSebuahData
+    public void HapusSebuahData(int index) {
+        if (index >= 0 && index < DataTersimpan.Count) {
+            DataTersimpan.RemoveAt(index);
+        }
+        else {
+            Console.WriteLine("Index tidak valid.");
+        }
+    }
+}
