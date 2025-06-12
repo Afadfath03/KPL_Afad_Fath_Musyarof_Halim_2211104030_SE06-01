@@ -1,7 +1,0 @@
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\bin\Debug\AUTOMATA.exe.config
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\bin\Debug\AUTOMATA.exe
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\bin\Debug\AUTOMATA.pdb
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\obj\Debug\AUTOMATA.csproj.AssemblyReference.cache
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\obj\Debug\AUTOMATA.csproj.CoreCompileInputs.cache
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\obj\Debug\AUTOMATA.exe
-D:\Study\Kampus\Matkul\Semester 6\Praktikum Konstruksi Perangkat Lunak\KPL\Meet2\AUTOMATA\obj\Debug\AUTOMATA.pdb
