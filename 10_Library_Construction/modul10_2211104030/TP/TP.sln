@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP", "TP.csproj", "{73480ED1-EDB5-4C79-8E89-6195DB55AD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aljabar", "..\Aljabar\Aljabar.csproj", "{6135630E-3A76-4C69-A0FE-845854076915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73480ED1-EDB5-4C79-8E89-6195DB55AD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73480ED1-EDB5-4C79-8E89-6195DB55AD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73480ED1-EDB5-4C79-8E89-6195DB55AD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73480ED1-EDB5-4C79-8E89-6195DB55AD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6135630E-3A76-4C69-A0FE-845854076915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6135630E-3A76-4C69-A0FE-845854076915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6135630E-3A76-4C69-A0FE-845854076915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6135630E-3A76-4C69-A0FE-845854076915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA460D00-3E4E-48E8-A57A-F5DEC89FF164}
+	EndGlobalSection
+EndGlobal
